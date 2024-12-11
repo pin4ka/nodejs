@@ -13,4 +13,4 @@
     console.log("three")
 })();
 
-((parameter) => console.log(`hi ${parameter}`))('pinaka');
+((parameter) => console.log(`hi ${parameter}`))('pinaka');w``
